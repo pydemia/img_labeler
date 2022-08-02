@@ -1,0 +1,9 @@
+mypy
+numpy
+pandas
+bokeh
+matplotlib
+PyQt5
+PyInstaller
+opencv-python
+paramiko

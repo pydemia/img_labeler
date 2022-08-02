@@ -1,0 +1,4 @@
+/home/user01/10396_hr/pill_recognition/img_test/detection_crop_test/sh_crop/20220422_093315_81.jpg	d	맞	1.0000
+/home/user01/10396_hr/pill_recognition/img_test/detection_crop_test/sh_crop/20220422_093315_82.jpg	I	애l	0.7554
+/home/user01/10396_hr/pill_recognition/img_test/detection_crop_test/sh_crop/20220422_093315_83.jpg	g	틀a	0.9115
+/home/user01/10396_hr/pill_recognition/img_test/detection_crop_test/sh_crop/20220422_093315_84.jpg	A	맞	0.9625

@@ -1,0 +1,8 @@
+imgs\03.jpg	P	맞	example_000
+imgs\20220629_02.jpg	P	틀	example_001
+imgs\20220629_223952060_01.jpg	P	틀asdfasd	example_002
+imgs\223952060_02.jpg	P	틀err	example_003
+imgs\example_flower.jpg	P	틀s	example_004
+imgs\file-6113d5f8845dc.jpg	P	틀l	example_005
+imgs\Gull_portrait_ca_usa.jpg	P	틀a	example_006
+imgs\file-6113d5f8845dc copy.jpeg	P	틀v	example_007
